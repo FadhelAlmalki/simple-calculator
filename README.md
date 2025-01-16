@@ -2,7 +2,7 @@
 
 This project is a **responsive calculator application** implemented with a clean and accessible user interface. It is designed to perform basic arithmetic operations and is an excellent beginner-friendly project for working with HTML, CSS, and JavaScript. The calculator is styled with a modern, minimalistic design and can be easily extended with additional features.
 
-![Simple Calculator](Images/simple_calculator.png "h")
+![Simple Calculator](simple_calculator.png "h")
 
 ## Features
 
