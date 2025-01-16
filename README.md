@@ -58,10 +58,3 @@ This project is a **responsive calculator application** implemented with a clean
 
 3. **Responsiveness:**
    - The layout adapts to screen sizes using CSS media queries or flexbox/grid layouts.
-
-## Potential Enhancements
-  - Add support for more advanced mathematical operations (e.g., exponentiation, trigonometry).
-  - Implement keyboard input support.
-  - Add animations for button presses.
-  - Save the history of calculations.
-  - Use frameworks like React for a more scalable implementation.
